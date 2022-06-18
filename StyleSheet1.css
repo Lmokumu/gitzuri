@@ -1,3 +1,31 @@
 ﻿body
 {
+    box-sizing: border-box,;
+}
+main{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 15px;
+    border: 1px;
+    display: flex;
+}
+.top-content{
+    background-color:hsl(31, 77%, 52%) 
+    
+
+}
+.middle-content{
+    background-color:hsl(184, 100%, 22%) ;
+}
+h3{
+    
+}
+.end-content{
+    background-color: hsl(179, 100, 13%);
+    
+
 }
